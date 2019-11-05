@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is D4B4-C2A4
+
+ Directory of C:\Users\sathcha2\Desktop\MyTestGIT
+
+11/05/2019  05:15 PM    <DIR>          .
+11/05/2019  05:15 PM    <DIR>          ..
+11/05/2019  05:14 PM               352 test1.txt
+11/05/2019  05:15 PM                 0 test2.txt
+               2 File(s)            352 bytes
+               2 Dir(s)  148,551,806,976 bytes free
