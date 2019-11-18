@@ -8,3 +8,40 @@
 11/05/2019  05:14 PM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  148,567,576,576 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is D4B4-C2A4
+
+ Directory of C:\Users\sathcha2\Desktop\MyTestGIT
+
+11/05/2019  05:13 PM    <DIR>          .
+11/05/2019  05:13 PM    <DIR>          ..
+11/05/2019  05:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148,567,576,576 bytes free Volume in drive C is OS
+ Volume Serial Number is D4B4-C2A4
+
+ Directory of C:\Users\sathcha2\Desktop\MyTestGIT
+
+11/05/2019  05:13 PM    <DIR>          .
+11/05/2019  05:13 PM    <DIR>          ..
+11/05/2019  05:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148,567,576,576 bytes free Volume in drive C is OS
+ Volume Serial Number is D4B4-C2A4
+
+ Directory of C:\Users\sathcha2\Desktop\MyTestGIT
+
+11/05/2019  05:13 PM    <DIR>          .
+11/05/2019  05:13 PM    <DIR>          ..
+11/05/2019  05:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148,567,576,576 bytes free Volume in drive C is OS
+ Volume Serial Number is D4B4-C2A4
+
+ Directory of C:\Users\sathcha2\Desktop\MyTestGIT
+
+11/05/2019  05:13 PM    <DIR>          .
+11/05/2019  05:13 PM    <DIR>          ..
+11/05/2019  05:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148,567,576,576 bytes free
